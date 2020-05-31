@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e6ec4a8.chunk.css",
+    "main.js": "/static/js/main.a25d0a1d.chunk.js",
+    "main.js.map": "/static/js/main.a25d0a1d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc84fa36.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc84fa36.js.map",
+    "static/js/2.a65a4f2d.chunk.js": "/static/js/2.a65a4f2d.chunk.js",
+    "static/js/2.a65a4f2d.chunk.js.map": "/static/js/2.a65a4f2d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.15ac78aa6355b254b269fec4d9a004b7.js": "/precache-manifest.15ac78aa6355b254b269fec4d9a004b7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7e6ec4a8.chunk.css.map": "/static/css/main.7e6ec4a8.chunk.css.map",
+    "static/js/2.a65a4f2d.chunk.js.LICENSE.txt": "/static/js/2.a65a4f2d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Nunito-Regular.d2e691bc.ttf",
+    "static/media/MaskGroup.png": "/static/media/MaskGroup.73084cd2.png",
+    "static/media/ResumeDesign.png": "/static/media/ResumeDesign.23c1c303.png",
+    "static/media/Success.png": "/static/media/Success.bf28edee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc84fa36.js",
+    "static/js/2.a65a4f2d.chunk.js",
+    "static/css/main.7e6ec4a8.chunk.css",
+    "static/js/main.a25d0a1d.chunk.js"
+  ]
+}

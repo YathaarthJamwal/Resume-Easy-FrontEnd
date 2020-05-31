@@ -1,0 +1,236 @@
+.Whole {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-family: Nunito;
+}
+
+.Top {
+    position: fixed;
+    width: 100%;
+    height: 12.5%;
+    background-color: #348AA7;
+}
+
+.Logo {
+    position: fixed;
+    width: 70%;
+    top: 2%;
+    font-family: Fredoka One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 24px;
+    color: white;
+    left: 10%;
+}
+
+.Easy {
+    position: fixed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 24px;
+    color: #BCE784;
+    padding-left: 4px;
+}
+
+.Bottom {
+    position: absolute;
+    width: 100%;
+    top: 80%;
+    height: 20%;
+    background-color: #348AA7;
+}
+
+.Whole img {
+    position: relative;
+    height: 33.7%;
+    width: 65.6%;
+    top: 21.25%;
+}
+
+.TextArea {
+    position: fixed;
+    top: 56.1%;
+    height: 15%;
+    width: 100%;
+    text-align: center;
+}
+
+.TopText {
+    position: relative;
+    top: 8%;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 32px;
+    color: rgba(0, 0, 0, 0.87);
+}
+
+.MidText {
+    position: relative;
+    font-style: normal;
+    top: -9%;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.54);
+}
+
+.BottomText {
+    position: relative;
+    font-style: normal;
+    top: -11%;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 32px;
+    color: rgba(0, 0, 0, 0.87);
+}
+
+.Button {
+    position: absolute;
+    top: 84%;
+    background-color: #BCE784;
+    width: 91%;
+    height: 8%;
+    border-radius: 8px;
+    left: 4.50%;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 32px;
+    color: black;
+    z-index: 100;
+}
+
+.Whatsapp {
+    position: absolute;
+    width: 91%;
+    top: 92%;
+    left: 4.5%;
+    height: 4%;
+    color: #BCE784;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 24px;
+    font-size: 14px;
+    text-decoration-line: underline;
+    z-index: 100;
+}
+
+@media screen and (min-width: 650px) and (min-height: 500px) {
+    .Whole {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        font-family: Nunito;
+    }
+    .Logo {
+        position: relative;
+        margin-top: 2%;
+        font-size: 26px;
+        line-height: 26px;
+    }
+    .Easy {
+        font-size: 26px;
+        line-height: 26px;
+        padding-left: 4px;
+    }
+    .Whole img {
+        position: fixed;
+        height: 45%;
+        width: 25%;
+        left: 58.78%;
+        top: 31.25%;
+        z-index: 100;
+    }
+    .TextArea {
+        position: fixed;
+        top: 31.1%;
+        height: 15%;
+        width: 100%;
+        text-align: left;
+        left: 8.26%;
+    }
+    .Top {
+        position: fixed;
+        width: 100%;
+        height: 12.5%;
+        background-color: #348AA7;
+    }
+    .TopText {
+        position: fixed;
+        font-style: normal;
+        top: 31.24%;
+        font-weight: 1000;
+        font-size: 36px;
+        line-height: 28px;
+        color: rgba(0, 0, 0, 0.87);
+    }
+    .MidText {
+        position: fixed;
+        font-style: normal;
+        font-weight: 500;
+        top: 39.5%;
+        font-size: 24px;
+        line-height: 18px;
+        color: rgba(0, 0, 0, 0.54);
+    }
+    .Bottom {
+        position: fixed;
+        width: 100%;
+        top: 80%;
+        height: 20%;
+        background-color: white;
+    }
+    .BottomText {
+        position: fixed;
+        font-style: normal;
+        left: 8.26%;
+        top: 61%;
+        font-weight: 800;
+        font-size: 26px;
+        line-height: 26px;
+        color: rgba(0, 0, 0, 0.87);
+    }
+    .Button {
+        position: absolute;
+        top: 71%;
+        background-color: #348AA7;
+        width: 20%;
+        height: 5.45%;
+        border: 0.5px solid #348AA7;
+        border-radius: 8px;
+        left: 8.26%;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 32px;
+        color: white;
+        z-index: 100;
+    }
+    .Whatsapp {
+        position: absolute;
+        width: 16%;
+        top: 71%;
+        left: 30.2%;
+        height: 5.4%;
+        color: #348AA7;
+        background-color: white;
+        border: 1px solid #348AA7;
+        border-radius: 8px;
+        font-style: normal;
+        font-weight: bold;
+        text-decoration: none;
+        font-size: 12px;
+        z-index: 100;
+        text-align: center;
+    }
+    .Whatsapp p {
+        text-align: center;
+        margin-top: 3.2%;
+    }
+}
